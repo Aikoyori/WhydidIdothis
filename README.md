@@ -37,4 +37,8 @@ Then either use in-game modselector or use `mod=WhydidIdothis` launch option.
 
 Please refer to license file included in this repository.
 
+## Contribution
+
+Please do not hesitate to contribute or just report the technical issue. Even though this is a meme mod, I would still want to add more stuff to it.
+
 # And lastly, have fun!
