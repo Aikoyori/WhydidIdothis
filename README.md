@@ -1,4 +1,4 @@
-# Why did I do this? Mod
+# Why did I do this? Mod for Dicey Dungeons
 Dicey Dungeons mod for people who is bad at game like me. Basically set every loot to one of the 4 items.
 
 # Why?
@@ -27,7 +27,11 @@ Note that all of these items are reusable and immune to errors.
 # Now how do I install it?
 Easy!
 
-Download the entire thing as ZIP (or git clone if you want to) the _EXTRACT_ WhydidIdothis-master into Dicey Dungeons' mod folder. Then either use in-game modselector or use `mod=WhydidIdothis` launch option.
+Download the entire thing as ZIP (or git clone if you want to).
+
+Then **EXTRACT** WhydidIdothis-master into Dicey Dungeons' mod folder. 
+
+Then either use in-game modselector or use `mod=WhydidIdothis` launch option.
 
 ## Licensing
 
