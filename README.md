@@ -22,7 +22,8 @@ Inflicts opponent with every possible status effect of 20 except poison. Renderi
 As the name implies, this creates all dices from 1 through 6 and also returns the dice.
 
 ### 4. Thorn Bloom
-Commits paasiveness by inflicting opponent with poison equals to dice number and also confuses them. Additionally, the player is also inflicted with Thorns 5.
+Wins by inflicting opponent with poison equals to dice number and also confuses them. Additionally, the player is also inflicted with Thorns 5.<br>
+(Wins by doing absolutely nothing)
 
 ### Quick note
 If you get one of these items can't possibly fucking lose the game. It is fun to mess around with the game so I gave it a try the this happened.<br>
