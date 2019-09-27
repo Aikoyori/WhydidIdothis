@@ -5,11 +5,12 @@ Dicey Dungeons mod for people who is bad at game like me. Basically set every lo
 I suck at the game. It is also not that OP since you have to use fighter's original weapon to progress to the first chest. <br><br>
 I know there are cheats for this game but that's just too easy and does not offer any challenge. 
 
+# The items!
 ![These equipments are super OP](https://cdn.discordapp.com/attachments/424216831771934733/626827507869417483/unknown.png)
 
 ### 0. How to get these items
 
-They are found everywhere including chests and shops. It should work with any episode.
+They are found everywhere including chests and shops. It should work with any episode. I tested it and it worked so yeah if any episode didn't work let me know by creating an issue here.
 
 ### 1. Impending Doom
 Completely destroy the opponent with this nuke portrayed as a fucking Dicey Dungeons equipment. Deals damage of all types equals to the dice.
