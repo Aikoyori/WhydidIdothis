@@ -1,2 +1,2 @@
-Name,Description,Requirements,Script
-FUCKING SHIT,,,var dicelist = []; for (mydice in self.dicepool){ if (mydice.available()){ dicelist.push(mydice.basevalue); dicelist.push(mydice.basevalue); dicelist.push(mydice.basevalue); dicelist.push(mydice.basevalue); dicelist.push(mydice.basevalue); dicelist.push(mydice.basevalue); dicelist.push(mydice.basevalue); dicelist.push(mydice.basevalue); } } givedice(dicelist);
+Name,Description,Script
+FUCKING SHIT,,var dicelist = []; for (mydice in self.dicepool){ if (mydice.available()){ dicelist.push(mydice.basevalue); dicelist.push(mydice.basevalue); dicelist.push(mydice.basevalue); dicelist.push(mydice.basevalue); dicelist.push(mydice.basevalue); dicelist.push(mydice.basevalue); dicelist.push(mydice.basevalue); dicelist.push(mydice.basevalue); } } givedice(dicelist);
